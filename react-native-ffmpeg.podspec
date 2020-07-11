@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
     s.source_files      = 'ios/RNFFmpegModule.m',
                           'ios/RNFFmpegModule.h'
 
-    s.default_subspec   = 'https'
+    s.default_subspec   = 'full-gpl-lts'
 
     s.dependency        'React'
 
